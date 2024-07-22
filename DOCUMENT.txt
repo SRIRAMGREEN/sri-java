@@ -1,1 +1,2 @@
 This is a sample document.
+this file is cloned here by git pull command in the terminal.
